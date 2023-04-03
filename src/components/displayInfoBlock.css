@@ -1,0 +1,33 @@
+.display-info-block {
+  border: 1px solid black;
+  width: 70%;
+  height: 350px;
+  margin-top: 1vh;
+  background-color: #444444;
+  color: white;
+  border-radius: 50px;
+  display: flex;
+  flex-direction: row;
+}
+
+.launch-icon {
+  width: 200px;
+  height: 350px;
+  object-fit: cover;
+
+  border-radius: 50px 0px 0px 50px;
+}
+.launch-info {
+  width: 100%;
+}
+
+.launch-name {
+  font-size: calc(1.3em);
+}
+
+.launch-countdown {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 1.6em;
+}
