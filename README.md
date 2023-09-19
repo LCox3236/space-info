@@ -1,3 +1,13 @@
+Space Info React App
+
+Using an API called Launch Library 2 to display upcoming and previous rocket launches around the world
+
+https://thespacedevs.com/llapi
+
+![Upcomming Launches](https://github.com/LCox3236/space-info/assets/83649281/1bc38d81-5931-41ec-bf23-1332d7720c64)
+![Previous Launches](https://github.com/LCox3236/space-info/assets/83649281/bf674302-f637-4a26-8fb4-fc6af8fe3b49)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
